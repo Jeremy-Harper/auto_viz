@@ -1,0 +1,27 @@
+Funnel: Data Collection, Data Processing, Model Training, Model Validation, Model Deployment
+
+Timeline:
+- 2010: Early discussions of AI’s potential in healthcare
+- 2015: AI begins being used for predictive analytics and diagnostics support
+- 2020: LLMs explored for automating administrative tasks in healthcare
+- 2024: Healthcare organizations implement LLMs for personalized care and data management
+
+Pros:
+- Enhances patient accessibility
+- Reduces administrative burden
+- Known implementation costs
+Cons:
+- Complex data integration
+- Privacy concerns 
+- Risk of AI models biased medical advice
+- Over-reliance on AI 
+
+Circular Diagram: 
+Theme: LLMs in Healthcare 
+Sub-elements: Data-driven diagnostics, Administrative automation, Personalized healthcare, Privacy and security challenges
+
+Decision Tree: Decision Tree:
+- Data Collection -> Data Processing
+- Data Processing -> Model Training
+- Model Training -> Model Validation
+- Model Validation -> Model Deployment

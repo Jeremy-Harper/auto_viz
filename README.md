@@ -1,4 +1,4 @@
-# OpenAI LLM Visualization Tool
+# LLM Visualization Tool
 
 This project is a Python-based tool that leverages a LLM to analyze articles and generate multiple types of visualizations. It creates Funnel Diagrams, Timelines, Pros and Cons tables, Circular Diagrams, and Decision Trees based on the structured data extracted from an article.
 
@@ -105,7 +105,7 @@ Key Benefits
     Automated Visualization: Automatically generates multiple types of visual diagrams from an article with minimal manual input.
     Clear Visual Communication: The tool produces professional and clean visuals, suitable for presentations and reports.
     Highly Customizable: The visual styles (e.g., colors, fonts) can be easily customized by adjusting the palette or adding custom icons and fonts.
-    Efficient Data Parsing: The integration with OpenAI ensures that the data extraction and structuring is efficient and capable of handling complex articles.
+    Efficient Data Parsing: The integration with LLM's ensures that the data extraction and structuring is efficient and capable of handling complex articles.
 
 Customization
 

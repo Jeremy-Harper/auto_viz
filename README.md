@@ -1,6 +1,6 @@
 # LLM Visualization Tool
 
-This project is a Python-based tool that leverages a LLM to analyze articles and generate multiple types of visualizations. It creates Funnel Diagrams, Timelines, Pros and Cons tables, Circular Diagrams, and Decision Trees based on the structured data extracted from an article.
+This project is a Python-based tool that leverages a LLM to analyze articles and generate multiple types of visualizations. It creates Funnel Diagrams, Timelines, Pros and Cons tables, Circular Diagrams, and Decision Trees based on the structured data extracted from an article. This is proof of concept that we can do similar things to napkin.ai with open source software.
 
 ## Table of Contents
 - [Installation](#installation)
